@@ -1,0 +1,9 @@
+[02:16:35.976][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[02:16:36.013][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[02:16:36.083][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[02:16:36.084][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[02:16:36.095][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[02:16:37.080][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[02:16:37.083][INFO][CraftTweaker]: - 'aquaculture' at version '2.5.3'
+[02:16:37.083][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.50'
+[02:16:37.084][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.6'
